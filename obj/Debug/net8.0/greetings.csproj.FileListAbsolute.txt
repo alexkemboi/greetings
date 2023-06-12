@@ -1,0 +1,15 @@
+C:\Users\akemboi\Desktop\projects\greetings\bin\Debug\net8.0\greetings.exe
+C:\Users\akemboi\Desktop\projects\greetings\bin\Debug\net8.0\greetings.deps.json
+C:\Users\akemboi\Desktop\projects\greetings\bin\Debug\net8.0\greetings.runtimeconfig.json
+C:\Users\akemboi\Desktop\projects\greetings\bin\Debug\net8.0\greetings.dll
+C:\Users\akemboi\Desktop\projects\greetings\bin\Debug\net8.0\greetings.pdb
+C:\Users\akemboi\Desktop\projects\greetings\obj\Debug\net8.0\greetings.csproj.AssemblyReference.cache
+C:\Users\akemboi\Desktop\projects\greetings\obj\Debug\net8.0\greetings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akemboi\Desktop\projects\greetings\obj\Debug\net8.0\greetings.AssemblyInfoInputs.cache
+C:\Users\akemboi\Desktop\projects\greetings\obj\Debug\net8.0\greetings.AssemblyInfo.cs
+C:\Users\akemboi\Desktop\projects\greetings\obj\Debug\net8.0\greetings.csproj.CoreCompileInputs.cache
+C:\Users\akemboi\Desktop\projects\greetings\obj\Debug\net8.0\greetings.dll
+C:\Users\akemboi\Desktop\projects\greetings\obj\Debug\net8.0\refint\greetings.dll
+C:\Users\akemboi\Desktop\projects\greetings\obj\Debug\net8.0\greetings.pdb
+C:\Users\akemboi\Desktop\projects\greetings\obj\Debug\net8.0\greetings.genruntimeconfig.cache
+C:\Users\akemboi\Desktop\projects\greetings\obj\Debug\net8.0\ref\greetings.dll
