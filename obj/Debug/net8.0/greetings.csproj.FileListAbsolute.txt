@@ -13,3 +13,4 @@ C:\Users\akemboi\Desktop\projects\greetings\obj\Debug\net8.0\refint\greetings.dl
 C:\Users\akemboi\Desktop\projects\greetings\obj\Debug\net8.0\greetings.pdb
 C:\Users\akemboi\Desktop\projects\greetings\obj\Debug\net8.0\greetings.genruntimeconfig.cache
 C:\Users\akemboi\Desktop\projects\greetings\obj\Debug\net8.0\ref\greetings.dll
+C:\Users\akemboi\Desktop\projects\greetings\obj\Debug\net8.0\greetings.sourcelink.json
