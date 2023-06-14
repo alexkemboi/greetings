@@ -30,11 +30,23 @@ public class SayHi
     public static void findNumberType(int b){
           if (b % 2 == 0)
         {
-            Console.WriteLine("even");
+            Console.WriteLine($"the number {b} is even");
         }
         else{
-            Console.WriteLine("odd");
+            Console.WriteLine($"the number {b} is odd");
         }
+    }
+    public static bool isPalidrome(string word){
+        string cleanedString = word.Replace(" ", "").ToLower();
+        int left = 0;
+        int right = cleanedString.Length-1;
+        while(left<=right){
+            if(cleanedString[left]!=cleanedString[right])
+                return false;
+            left++;
+            right--;
+        }
+        return true;
     }
 }
 
@@ -69,6 +81,7 @@ public class Program
         if (name != null)
         {
             SayHi.PrintGreeting(name);
+            Console.WriteLine(SayHi.isPalidrome(name));
         }
         SayHi.findSum(a, b);
         SayHi.findNumberType(b);
